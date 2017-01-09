@@ -1,0 +1,105 @@
+{
+  "inventoryLevels": [
+    {
+      "sku": "A-.375-VG-600",
+      "loosePounds": 10,
+      "tubes": 329,
+      "totalPounds": 232.1
+    },
+    {
+      "sku": "A-.375-VG-604",
+      "loosePounds": 42,
+      "tubes": 12,
+      "totalPounds": 58.4
+    }
+  ],
+  "recentProduction": [
+    {
+      "year": 2015,
+      "week": 1,
+      "code": "01142031",
+      "version": "2.3.1",
+      "sku": "A-.375-VG-600",
+      "method": "robot",
+      "count": 4712
+    },
+    {
+      "year": 2015,
+      "week": 1,
+      "code": "01151008",
+      "version": "1.2.4",
+      "sku": "A-.375-VG-602",
+      "method": "robot",
+      "count": 786
+    },
+    {
+      "year": 2015,
+      "week": 1,
+      "code": "01132143",
+      "version": "4.1.3",
+      "sku": "A-.375-VG-600",
+      "method": "hand",
+      "count": 786
+    }
+  ],
+  "currentOpportunities": [
+    {
+      "code": "01154001",
+      "name": "Savoy Hotel Lobby",
+      "proposals": [
+        {
+          "name": "Proposal 1",
+          "mosaics": [
+            {
+              "version": "4.1.6",
+              "sqFt": 23.9,
+              "tile": [
+                {
+                  "sku": "A-.5-SG-M623",
+                  "amount": 4092
+                },
+                {
+                  "sku": "A-.5-SG-M743",
+                  "amount": 1288
+                }
+              ]
+            },
+            {
+              "version": "7.1.2",
+              "sqFt": 423.4,
+              "tile": [
+                {
+                  "sku": "A-.375-VG-608",
+                  "amount": 23500
+                },
+                {
+                  "sku": "A-.375-VG-609",
+                  "amount": 12872
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Proposal 2",
+          "mosaics": [
+            {
+              "version": "7.2.4",
+              "sqFt": 418.4,
+              "tile": [
+                {
+                  "sku": "A-.375-VG-609",
+                  "amount": 22976
+                },
+                {
+                  "sku": "A-.375-VG-610",
+                  "amount": 13497
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
